@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ParallelTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-03-16T13:19:19" hostname="LUXBOOKPF1W7PSE" time="0.112">
+  <properties/>
+  <testcase name="testMethodsOne" classname="ParallelTest" time="0.079"/>
+  <testcase name="testMethodsTwo" classname="ParallelTest" time="0.003"/>
+  <system-out><![CDATA[Before test-method. Thread id is: 14
+Simple test-method One. Thread id is:14
+After test-method. Thread id is:14
+Before test-method. Thread id is: 14
+Simple test-method Two. Thread id is:14
+After test-method. Thread id is:14
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
