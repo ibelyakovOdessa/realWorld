@@ -3,8 +3,8 @@
 <suite name = "Main Suite" parallel="instances" thread-count="2">
     <test name = "Tag filtering" group-by-instances="true">
         <classes>
-            <class name = "TagFilteringTest"/>
-            <class name = "TagHeaderTest"/>
+            <class name = "ui.TagFilteringTest"/>
+            <class name = "ui.TagHeaderTest"/>
         </classes>
     </test>
 </suite>

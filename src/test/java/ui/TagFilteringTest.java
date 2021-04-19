@@ -1,3 +1,5 @@
+package ui;
+
 import elements.ArticlePreview;
 import io.qameta.allure.Owner;
 import io.qameta.allure.Severity;

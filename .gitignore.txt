@@ -1,0 +1,10 @@
+# Idea Files
+.idea/
+*.iml
+# execution results
+allure-results/
+log/
+*.log
+# Build outputs
+build
+target/

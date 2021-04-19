@@ -1,7 +1,5 @@
 package utils;
 
-import java.util.ArrayList;
-import java.util.List;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;

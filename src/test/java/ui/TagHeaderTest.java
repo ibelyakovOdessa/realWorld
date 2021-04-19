@@ -1,3 +1,5 @@
+package ui;
+
 import io.qameta.allure.Owner;
 import io.qameta.allure.Severity;
 import io.qameta.allure.SeverityLevel;
