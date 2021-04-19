@@ -1,10 +1,11 @@
 # Idea Files
 .idea/
+./gradle
 *.iml
 # execution results
 allure-results/
 log/
 *.log
 # Build outputs
-build
-target/
+build/
+
